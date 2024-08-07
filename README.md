@@ -7,3 +7,5 @@ Simple terminal-style website that uses the [WinBox](https://github.com/nextapps
 
 ## Preview
 ![Preview](./img/preview.png)
+
+Shamelessly [forked](https://github.com/bradtraversy/terminal-landing-page)
