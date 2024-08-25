@@ -4,8 +4,8 @@ Simple terminal-style website that uses the [WinBox](https://github.com/nextapps
 
 ## [Demo](https://upbeat-allen-ed0aef.netlify.app/)
 
-
 ## Preview
+
 ![Preview](./img/preview.png)
 
 Shamelessly [forked](https://github.com/bradtraversy/terminal-landing-page)
